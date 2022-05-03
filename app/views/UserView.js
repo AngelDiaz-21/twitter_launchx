@@ -4,6 +4,8 @@ class UserView{
     static createUser(payload){
         if(payload === null){
             return{ error: "payload no existe"}
+        }else if((payload.username === null)||(payload.name===12)||(payload.id === "id")){
+            return {error: "necesitan tener un valor válido"}
         }
     }
 }
