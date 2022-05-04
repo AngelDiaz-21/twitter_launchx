@@ -21,8 +21,8 @@ Esto aplica solo para sistemas operativos Windows.
 3. Escribe el código necesario.
 4. Haz que la prueba pase.
 
-<!-- TODO: Agregar imagen del directorio -->
 * Estructura de carpetas
+![Estructura de carpetas utilizada](./assets/img/directorio.png "Estructura de carpetas utilizada") 
 
 ### Sprint 1: Agregar modelos - Creación de un modelo
 **Requerimientos**
